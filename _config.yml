@@ -27,9 +27,9 @@ author:
   name             : "Tim Legare"
   pronouns         : "He/Him"  
   bio              : "PhD Student"
-  #location         : "Earth"
+  location         : 
   employer         : "University of Illinois<br>Urbana-Champaign"
-  uri              : # URL
+  uri              : 
   email            : "tlegare@illinois.edu" 
 
   # Academic websites
