@@ -18,7 +18,7 @@ redirect_from:
 
 ## About Me
 
-I am a Ph.D. student in the Department of Integrative Biology at the 
+I am a Ph.D. student in the Department of Evolution, Ecology, & Behavior at the 
 University of Illinois Urbana-Champaign, working in the 
 [Fuller Lab](https://beckyfullerlab.weebly.com/). 
 My research focuses on speciation, hybridization, and population 
@@ -30,5 +30,5 @@ I am broadly interested in speciation and understanding how reproductive isolati
 My current projects include:
 
 - Assessing population structure of invasive *Lucania* in the San Francisco Bay.
-- Quantifying morphological and phenotypic variation in *Lucania* and its hybrids.
-- Exploring how reproductive isolating barriers respond to novel environments.
+- Describing morphological variation in *Lucania* and its hybrids.
+- Exploring the impact of environmental novelty on reproductive isolating barriers in *Lucania* killifish.
