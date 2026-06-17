@@ -1,14 +1,15 @@
 ---
 layout: archive
-title: "CV - tlegare@illinois.edu"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
 
-{% include base_path %}
+--- 
 
+# **Tim Legare**
+### tlegare@illinois.edu
 ---
 
 ## Education
