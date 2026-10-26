@@ -213,7 +213,7 @@ Bhat, A., Peters, M., **Legare, T.M.**, Fuller, R.C. 2025. *Species delimitation
 
 <div style="display: flex; justify-content: space-between;">
   <div>IB 517 Analysis of Biological Data in R TA</div>
-  <div style="text-align: right;">Spring 2026</div>
+  <div style="text-align: right;">Fall 2026</div>
 </div>
 
 <div style="display: flex; justify-content: space-between;">

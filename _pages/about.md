@@ -18,7 +18,7 @@ redirect_from:
 
 ## About Me
 
-I am a Ph.D. student in the Department of Evolution, Ecology, & Behavior at the 
+I am a Ph.D. candidate in the Department of Evolution, Ecology, & Behavior at the 
 University of Illinois Urbana-Champaign, working in the 
 [Fuller Lab](https://beckyfullerlab.weebly.com/). 
 My research focuses on speciation, hybridization, and population 
