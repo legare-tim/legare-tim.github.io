@@ -17,7 +17,7 @@ redirect_from:
 <div style="display: flex; justify-content: space-between;">
   <div>
     <strong>University of Illinois Urbana-Champaign</strong><br>
-    <em>Ph.D. Student, Integrative Biology, Evolution, Ecology, and Behavior</em><br>
+    <em>Ph.D. Candidate, Integrative Biology, Evolution, Ecology, and Behavior</em><br>
     Advisor: Dr. Becky Fuller
   </div>
   <div style="text-align: right;">
@@ -167,6 +167,11 @@ Bhat, A., Peters, M., **Legare, T.M.**, Fuller, R.C. 2025. *Species delimitation
 ## Honors, Awards & Fellowships
 
 <div style="display: flex; justify-content: space-between;">
+  <div>Society for the Study of Evolution R.C. Lewontin Early Award ($2,500)</div>
+  <div style="text-align: right;">2026</div>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
   <div>Evolution, Ecology, and Behavior Summer Stipend Award (approx. $5,300)</div>
   <div style="text-align: right;">2026</div>
 </div>
@@ -204,6 +209,12 @@ Bhat, A., Peters, M., **Legare, T.M.**, Fuller, R.C. 2025. *Species delimitation
 ---
 
 ## Teaching Experience
+
+
+<div style="display: flex; justify-content: space-between;">
+  <div>IB 517 Analysis of Biological Data in R TA</div>
+  <div style="text-align: right;">Spring 2026</div>
+</div>
 
 <div style="display: flex; justify-content: space-between;">
   <div>IB 496 Advanced Marine Biology Lab TA</div>
